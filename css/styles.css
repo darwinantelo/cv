@@ -1,0 +1,49 @@
+body{
+    /* font-family: 'Roboto Mono', monospace; */
+}
+h1,h2{
+    font-family: 'Indie Flower', cursive;
+}
+
+.PersonalInfo{
+    box-shadow: 1px 8px 32px 10px rgba(0,0,0,0.75);
+    margin: 40px;
+    padding: 20px;
+}
+
+.Contacto{
+    box-shadow: 1px 8px 32px 10px rgba(0,0,0,0.75);
+    margin: 40px;
+    padding: 20px;
+}
+
+.Estudios{
+    box-shadow: 1px 10px 30px 10px rgba(0,0,0,0.75);
+    margin: 40px;
+    padding: 20px;
+}
+
+.Trabajo{
+    box-shadow: 1px 8px 32px 10px rgba(0,0,0,0.75);
+    margin: 40px;
+    padding: 20px;
+}
+.Idiomas{
+    box-shadow: 1px 8px 32px 10px rgba(0,0,0,0.75);
+    margin: 40px;
+    padding: 20px;
+}
+.AdicionalInfo{
+    box-shadow: 1px 8px 32px 10px rgba(0,0,0,0.75);
+    margin: 40px;
+    padding: 20px;
+}
+.foto{
+    box-shadow: 1px 8px 32px 10px rgb(156, 154, 0);
+    margin-left: 60%;
+}
+.titulo{
+    display: inline;
+    margin-left: 5%;
+
+}
